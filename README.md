@@ -13,6 +13,10 @@ To read the given data and perform  Feature Encoding & Scaling process and save 
 
 ## CODE
 ```
+NAME: Ragavendran A
+REG NO: 212222230114
+```
+```
 import pandas as pd
 df=pd.read_csv("/content/Encoding Data.csv")
 df
